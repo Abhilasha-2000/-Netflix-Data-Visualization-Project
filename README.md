@@ -3,8 +3,8 @@ This project presents an exploratory data analysis and visualization of Netflix'
 
 ## 📁 Dataset Overview
 The dataset contains the following columns:
-- `show_id` – Unique ID for each show
-- `type` – Movie or TV Show
+- show_id – Unique ID for each show
+- type – Movie or TV Show
 - `title` – Name of the content
 - `director` – Director name(s)
 - `cast` – Cast member names
