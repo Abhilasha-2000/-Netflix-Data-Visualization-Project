@@ -5,16 +5,16 @@ This project presents an exploratory data analysis and visualization of Netflix'
 The dataset contains the following columns:
 - show_id – Unique ID for each show
 - type – Movie or TV Show
-- `title` – Name of the content
-- `director` – Director name(s)
-- `cast` – Cast member names
-- `country` – Country of origin
-- `date_added` – Date it was added to Netflix
-- `release_year` – Year of original release
-- `rating` – Age rating (TV-MA, PG, etc.)
-- `duration` – Length of content
-- `listed_in` – Genre(s)
-- `description` – Short summary
+- title – Name of the content
+- director – Director name(s)
+- cast – Cast member names
+- country – Country of origin
+- date_added – Date it was added to Netflix
+- release_year – Year of original release
+- rating – Age rating (TV-MA, PG, etc.)
+- duration – Length of content
+- listed_in – Genre(s)
+- description – Short summary
 
 - ## 📊 Key Visualizations
 - ### 1. Rating Distribution
@@ -30,11 +30,10 @@ Displays the countries producing the most Netflix content.
 ### 6. Comparison of Movies and TV Shows Released Over Years
 Compare how content production has grown or declined across years of Movies and TV Shows.
 
-📌 All plots are created using **Matplotlib** and saved as high-resolution `.png` images.
+📌 All plots are created using **Matplotlib** and saved as high-resolution .png images.
 
 ## 🛠️ Tools & Libraries
 - **Python 3.9+**
 - **Pandas**
 - **Matplotlib**
 - **Jupyter Notebook**
-- 
