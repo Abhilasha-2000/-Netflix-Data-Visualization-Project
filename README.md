@@ -1,5 +1,5 @@
-# -Netflix-Data-Visualization-Project
-This project presents an exploratory data analysis and visualization of Netflix's content using Python libraries like **Pandas** and **Matplotlib**. The goal is to uncover patterns in the types of shows/movies, content production over the years, country-wise contributions,Distribution of Movie Duration, and ratings.
+# Netflix Data Visualization Project
+This project presents an exploratory data analysis and visualization of Netflix's content using Python libraries like **Pandas** and **Matplotlib**. The goal is to uncover patterns in the types of shows/movies, content production over the years, country-wise contributions, Distribution of Movie Duration, and ratings.
 
 ## 📁 Dataset Overview
 The dataset contains the following columns:
